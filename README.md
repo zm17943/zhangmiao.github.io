@@ -1,2 +1,2 @@
-# zhangmiao.github.io
-My online resume
+# zm17943.github.io
+Miao's online resume
